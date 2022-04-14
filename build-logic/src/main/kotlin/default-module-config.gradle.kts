@@ -9,4 +9,5 @@ version = "1.0"
 
 repositories {
     mavenCentral()
+    gradlePluginPortal()
 }
